@@ -20,5 +20,5 @@ Setup prolike github token environment variable
 Add environment variable
 
 name: GHTOKEN_PROLIKE
-value: 93f53aa4ba34407a7a8368276f6f0ea78d303ae3
+value: Your Token
 
