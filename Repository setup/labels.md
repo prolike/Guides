@@ -1,6 +1,6 @@
 # Label setup
 
-You need to have GHI installed, and then you need to download this [script](https://github.com/Praqma/the-phlow/blob/master/phlow-labels)
+You need to have [GHI](https://github.com/stephencelis/ghi) installed, and then you need to download this [script](https://github.com/Praqma/the-phlow/blob/master/phlow-labels)
 
 **Caution! This removes all existing labels!**
 
