@@ -16,6 +16,10 @@ Common problems:
     - Paths
     - MinTTY / winpty
 
+### Fix to the path problem
+
+There is several problems with a mix a Windows pathing and Unix style pathing, however it seems like the fix for MinTTY / winpty also fix this problem.
+
 ### fix to the problem MinTTY / winpty
 
 You need to reinstall git bash, and instead of choosing 'Use MinTTY', you should choose 'Use Windows default console window' as shown in image below.
